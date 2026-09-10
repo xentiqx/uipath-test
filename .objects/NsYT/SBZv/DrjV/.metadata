@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome (31) My Parents Sold Me to Be Married ",
+  "Type": "Screen",
+  "Id": "DrjVYoHIQUyP-9z7B4Pi4w",
+  "Reference": "XYJzztf5BkiCQzqD2p-B0A/DrjVYoHIQUyP-9z7B4Pi4w",
+  "ParentRef": "XYJzztf5BkiCQzqD2p-B0A/SBZvnGLfAEe1fRe8A6gjhg",
+  "Created": "2026-09-07T17:29:28.8280705Z",
+  "Updated": "2026-09-07T17:29:28.8280705Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

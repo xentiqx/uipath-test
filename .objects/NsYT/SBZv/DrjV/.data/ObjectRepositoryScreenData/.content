@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="zuWpP_vYxUaCYFR3EhvtrQ" Reference="XYJzztf5BkiCQzqD2p-B0A/DrjVYoHIQUyP-9z7B4Pi4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-1928, 279, 1936, 1048" BrowserType="Chrome" ContentHash="BWGhh__dJkOjXQV2RS9Vrg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI7SURBVGhD3Zm/a9RBEMWnsDBgQETsLE2bkBF/dGchSMDCSgxJa6egiCn8E2IjmCqoKZNYiJwaNIFoYS/GzgQsjNolRCWi6Avv2C8cO2NCNrncTQY+zZvZ3Xncfe/2uysAJDJGiIYRomGEaBghGkaIhhGi4QZEuyB6EqKDEL0F0VGIPoDoFESfQfQ1RN9BdBGinyC6DNHVJn5BFBnrWQ3HcOzHNBfn5NyTaS2uybWvpF668j5NQLQXonWI/nEaaDfsib315X03Ijn97QzsNNjjYN48P6IIzVew195mA7NOUadTr5o/AtF/TkGnw2fiEA1ccJJRqNHATScRhWs0MOYkonCPBh47iTIO16zWWiZpYN5JlPHwKTD+BDh23uZawxwNfHASZUzU0YiVNeD6KHDglK3ZXRZo4JuTKKMyUMXCIlC7aut2j2Ua4MYqT5SRG6hi6hVwfMDW75xVGvjhJMr4nwHGz3Xgzhhw8KwdV853GsjFcjYzUMXSZ+DiDTu2kL03UMXMW+DEJTvHNmmvgZ6IBlrwFYr8EK/ti5/Rr06ijNzAHv2RRd5KvN8Xm7nw2+n7TiIKjRea8K+UkV/qz9HA0cDHKt3xD7aSgb7QR4vJxOUgJuzhbhXpeP05RP86A9sNe3oJ0f68bxM8c4ToGYgOQ3QEonchOpH+9F5A9E26lFhKlxTcT211wUGtueZLGstLEs7FOTn3NEQfpTVvQ3QIoqcb56Be5Fc20TBCNIwQDSNEwwjRMEI0jBCNDZAs2gyAqOvzAAAAAElFTkSuQmCC" Reference="XYJzztf5BkiCQzqD2p-B0A/DrjVYoHIQUyP-9z7B4Pi4w" Selector="&lt;html app='chrome.exe' title='(31) My Parents Sold Me to Be Married at 5 Years Old | Minutes With - YouTube' /&gt;" Url="about:blank" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="197b218cb077fd2e648dba078f8e3df1.jpg" xmlns="">0FUrXqsl6RUKGi2QhVWixBw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
